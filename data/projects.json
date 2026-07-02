@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Greenhouse Climate Monitoring and Control System",
+        "year": "2025",
+        "role": "Developer",
+        "description": "Developed an automated system to monitor and control climate conditions within a greenhouse using Arduino Uno. Integrated DHT sensors for temperature and humidity, and LDR sensors for light intensity measurement.",
+        "image": "images/project1.jpg"
+    },
+    {
+        "title": "Smart Locker RFID with Telegram Bot Notification",
+        "year": "2025",
+        "role": "Developer",
+        "description": "Designed and constructed a security system for lockers using RFID technology for access control. Integrated a Telegram Bot feature to provide real-time entry and security notifications to the user's smartphone.",
+        "image": "images/project2.jpg"
+    },
+    {
+        "title": "HLP Machine Control Panel based on OMRON CS1G PLC",
+        "year": "2025 - 2026",
+        "role": "Developer",
+        "description": "Engineered and assembled a specialized control panel for HLP (Hinge Lid Packer) machinery using OMRON CS1G PLC systems. Integrated hardware components and programmed logic sequences to enhance machine automation and reliability.",
+        "image": "images/project3.jpg"
+    }
+]
