@@ -1,0 +1,32 @@
+{
+    "name": "Ahmad Rizal Abiansyah",
+    "description": "An Electronics Engineering graduate from Politeknik Negeri Semarang with a strong interest in electronics, microcontrollers, and Internet of Things (IoT) systems. Equipped with practical skills in hardware design and software programming developed through rigorous academic and hands-on projects. I am a highly motivated professional eager to apply my technical knowledge and contribute effectively in a professional environment.",
+    "profileImage": "images/profile.jpg",
+    "email": "rizal02jati@gmail.com",
+    "phone": "+62 857 4082 7769",
+    "location": "Kudus, Central Java, Indonesia",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/korintus_soldiers"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/cv.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {"name": "Microcontroller Programming (Arduino IDE)", "icon": "fas fa-microchip"},
+        {"name": "Proteus (PCB Design)", "icon": "fas fa-diagram-project"},
+        {"name": "MATLAB & Simulink", "icon": "fas fa-chart-line"},
+        {"name": "CX Programmer (PLC)", "icon": "fas fa-industry"},
+        {"name": "Microsoft Office", "icon": "fas fa-file-word"},
+        {"name": "Teamwork & Problem Solving", "icon": "fas fa-people-group"},
+        {"name": "Technical Documentation", "icon": "fas fa-file-lines"}
+    ],
+    "languages": [
+        {"name": "Bahasa Indonesia"},
+        {"name": "English"}
+    ]
+}
